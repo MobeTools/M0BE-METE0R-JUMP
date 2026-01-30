@@ -16,11 +16,11 @@ back and forth through dangerous worlds, avoid traps, and master precise movemen
 ---
 
 ## 🕹️ Controls
-- **Move:** A / D or Arrow Keys
-- **Jump:** Space
-- **Teleport:** Shift / Right Mouse Button
-- **Restart:** R
-- **Pause:** ESC
+- **Move:** no 
+- **Jump:** Jump Button
+- **Teleport:** Joystick
+- **Restart:** Button
+- **Pause:** Menu Button
 
 ---
 
@@ -34,7 +34,7 @@ back and forth through dangerous worlds, avoid traps, and master precise movemen
 ## 📦 Installation
 1. Download the latest release from **Releases**
 2. Extract the ZIP file
-3. Run `MobeMeteorJump.exe`
+3. Run `MeteorJumper.exe`
 
 ---
 
@@ -60,3 +60,4 @@ Unity® is a registered trademark of Unity Technologies.
 
 The Unity engine is licensed separately and is **not included** in this project’s license.
 This license applies only to the game’s original code, assets, and content.
+
