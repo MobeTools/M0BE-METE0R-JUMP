@@ -1,0 +1,27 @@
+MØBE•METEØR•JUMP – Proprietary License
+
+Copyright (c) 2026 Moritz Schneider
+
+All rights reserved.
+
+This software and all associated files (including but not limited to source code,
+assets, graphics, sounds, scripts, and documentation) are the exclusive property
+of Moritz Schneider.
+
+No part of this software may be copied, modified, merged, published, distributed,
+sublicensed, sold, or used in any form without explicit written permission from
+the copyright holder.
+
+This includes, but is not limited to:
+- Reusing code or assets in other projects
+- Publishing modified versions
+- Commercial or non-commercial redistribution
+- Uploading builds or source code to other platforms
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+For permissions, contact:
+Moritz Schneider
