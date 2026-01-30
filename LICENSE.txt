@@ -1,4 +1,4 @@
-MØBE•METEØR•JUMP – Proprietary License
+M0BE-METE0R-JUMP – Proprietary License
 
 Copyright (c) 2026 Moritz Schneider
 
@@ -25,3 +25,4 @@ FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
 
 For permissions, contact:
 Moritz Schneider
+
